@@ -1,0 +1,471 @@
+[
+	{
+		"id": 1,
+		"skill": "Html",
+		"category": "frontend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008818/my-folder/fotos/html_ycrvj2.png",
+		"description": "Html is a markup language used for structuring and presenting content on the World Wide Web. It is the standard markup language for documents designed to be displayed in a web browser.",
+		"descripcion": "Html es un lenguaje de marcado utilizado para estructurar y presentar contenido en la World Wide Web. Es el lenguaje de marcado estándar para documentos diseñados para ser mostrados en un navegador web.",
+		"link": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+	},
+	{
+		"id": 2,
+		"skill": "Css",
+		"category": "frontend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008817/my-folder/fotos/css_cgnjvk.png",
+		"description": "Css is a style sheet language used for describing the presentation of a document written in a markup language like HTML. Css is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+		"descripcion": "Css es un lenguaje de hoja de estilo utilizado para describir la presentación de un documento escrito en un lenguaje de marcado como Html. Css es una tecnología de esquina del World Wide Web, junto con Html y JavaScript.",
+		"link": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+	},
+	{
+		"id": 3,
+		"skill": "Javascript",
+		"category": "frontend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008818/my-folder/fotos/javascript_mex8zw.png",
+		"description": "Javascript is a high-level, interpreted programming language. It is a language which is also characterized as dynamic, weakly typed, prototype-based and multi-paradigm.",
+		"descripcion": "Javascript es un lenguaje de programación de alto nivel, interpretado. Es un lenguaje que también se caracteriza como dinámico, débilmente tipado, basado en prototipos y multi-paradigma.",
+		"link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+	},
+	{
+		"id": 4,
+		"skill": "React",
+		"category": "frontend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008820/my-folder/fotos/reactjs_oiz446.png",
+		"description": "React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies.",
+		"descripcion": "React es una biblioteca de JavaScript de código abierto, frontend, para crear interfaces de usuario o componentes de interfaz de usuario. Es mantenida por Facebook y una comunidad de desarrolladores individuales y empresas.",
+		"link": "https://reactjs.org/"
+	},
+	{
+		"id": 5,
+		"skill": "Nodejs",
+		"category": "backend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008819/my-folder/fotos/nodejs_le6ked.png",
+		"description": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.",
+		"descripcion": "Node.js es un entorno de tiempo de ejecución de JavaScript de código abierto, multiplataforma, de backend que se ejecuta en el motor V8 y ejecuta código JavaScript fuera de un navegador web.",
+		"link": "https://nodejs.org/en/"
+	},
+	{
+		"id": 6,
+		"skill": "Express",
+		"category": "backend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008818/my-folder/fotos/express_qidbu5.png",
+		"description": "Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.",
+		"descripcion": "Express es un marco de aplicación web Node.js minimalista y flexible que proporciona un conjunto robusto de características para aplicaciones web y móviles.",
+		"link": "https://expressjs.com/"
+	},
+	{
+		"id": 7,
+		"skill": "Nextjs",
+		"category": "backend-frontend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008819/my-folder/fotos/nextjs_bn6auo.png",
+		"description": "Next.js is an open-source React front-end development web framework that enables functionality such as server-side rendering and generating static websites for React based web applications.",
+		"descripcion": "Next.js es un marco de desarrollo web de frontend React de código abierto que permite funciones como renderizado del lado del servidor y generación de sitios web estáticos para aplicaciones web basadas en React.",
+		"link": "https://nextjs.org/"
+	},
+	{
+		"id": 8,
+		"skill": "Typescript",
+		"category": "backend-frontend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008821/my-folder/fotos/typescript_g3opkn.png",
+		"description": "Typescript is an open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript and adds optional static typing to the language.",
+		"descripcion": "Typescript es un lenguaje de programación de código abierto desarrollado y mantenido por Microsoft. Es un superconjunto estricto de sintaxis de JavaScript y agrega tipado estático opcional al lenguaje.",
+		"link": "https://www.typescriptlang.org/"
+	},
+	{
+		"id": 9,
+		"skill": "Nestjs",
+		"category": "backend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008819/my-folder/fotos/nestjs_g88skf.png",
+		"description": "Nestjs is a progressive Node.js framework for building efficient, reliable and scalable server-side applications. It uses modern JavaScript, is built with TypeScript and combines elements of OOP (Object Oriented Progamming), FP (Functional Programming), and FRP (Functional Reactive Programming).",
+		"descripcion": "Nestjs es un marco Node.js progresivo para crear aplicaciones de lado del servidor eficientes, confiables y escalables. Usa JavaScript moderno, está construido con TypeScript y combina elementos de OOP (Programación Orientada a Objetos), FP (Programación Funcional) y FRP (Programación Funcional Reactiva).",
+		"link": "https://nestjs.com/"
+	},
+	{
+		"id": 10,
+		"skill": "Apollo",
+		"category": "backend-frontend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008817/my-folder/fotos/apollo_ighyby.png",
+		"description": "Apollo is a GraphQL implementation that allows you to build a data graph that connects all of your data sources and APIs. It provides a unified data layer that makes it easy to build modern applications that use data from multiple sources.",
+		"descripcion": "Apollo es una implementación de GraphQL que le permite crear un grafo de datos que conecte todas sus fuentes de datos y API. Proporciona una capa de datos unificada que facilita la creación de aplicaciones modernas que usan datos de múltiples fuentes.",
+		"link": "https://www.apollographql.com/"
+	},
+	{
+		"id": 11,
+		"skill": "Graphql",
+		"category": "backend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008818/my-folder/fotos/graphql_czu5x3.png",
+		"description": "GraphQL is an open-source data query and manipulation language for APIs, and a runtime for fulfilling queries with existing data. GraphQL was developed internally by Facebook in 2012 before being publicly released in 2015.",
+		"descripcion": "GraphQL es un lenguaje de consulta y manipulación de datos de código abierto para API y un entorno de ejecución para cumplir con las consultas con datos existentes. GraphQL se desarrolló internamente por Facebook en 2012 antes de ser lanzado públicamente en 2015.",
+		"link": "https://graphql.org/"
+	},
+	{
+		"id": 12,
+		"skill": "React Query",
+		"category": "frontend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008820/my-folder/fotos/reactquery_pnuj9e.png",
+		"description": "React Query is a library for fetching, caching and updating asynchronous data in React. It helps you manage server state and offline data in your React applications.",
+		"descripcion": "React Query es una biblioteca para buscar, almacenar en caché y actualizar datos asíncronos en React. Le ayuda a administrar el estado del servidor y los datos sin conexión en sus aplicaciones de React.",
+		"link": "https://react-query.tanstack.com/"
+	},
+	{
+		"id": 13,
+		"skill": "Redux Thunk",
+		"category": "frontend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008820/my-folder/fotos/reduxthunk_e5zrr6.png",
+		"description": "Redux Thunk is a middleware that allows you to write action creators that return a function instead of an action. The thunk can be used to delay the dispatch of an action, or to dispatch only if a certain condition is met. The inner function receives the store methods dispatch and getState as parameters.",
+		"descripcion": "Redux Thunk es un middleware que le permite escribir creadores de acciones que devuelven una función en lugar de una acción. El thunk se puede usar para retrasar el despacho de una acción o para despachar solo si se cumple cierta condición. La función interna recibe los métodos de la tienda dispatch y getState como parámetros.",
+		"link": "https://redux.js.org/usage/writing-logic-thunks"
+	},
+	{
+		"id": 14,
+		"skill": "Material UI",
+		"category": "frontend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008819/my-folder/fotos/Materialui_e4hnqr.png",
+		"description": "Material UI is a popular React UI framework that implements Google's Material Design. It is a collection of reusable React components that you can use to build your web applications.",
+		"descripcion": "Material UI es un popular marco de interfaz de usuario de React que implementa el Material Design de Google. Es una colección de componentes React reutilizables que puede usar para crear sus aplicaciones web.",
+		"link": "https://material-ui.com/"
+	},
+	{
+		"id": 15,
+		"skill": "Chakra UI",
+		"category": "frontend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008817/my-folder/fotos/chakra_ofz5ln.png",
+		"description": "Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.",
+		"descripcion": "Chakra UI es una biblioteca de componentes simple, modular y accesible que le brinda los bloques de construcción que necesita para crear sus aplicaciones de React.",
+		"link": "https://chakra-ui.com/"
+	},
+	{
+		"id": 16,
+		"skill": "Framer Motion",
+		"category": "frontend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008818/my-folder/fotos/framermotion_w4ch2p.png",
+		"description": "Framer Motion is a production-ready, open source animation and gesture library for React. It's a powerful, lightweight animation library that allows you to easily add motion to your React apps.",
+		"descripcion": "Framer Motion es una biblioteca de animación y gestos de código abierto y lista para producción para React. Es una poderosa biblioteca de animación liviana que le permite agregar fácilmente movimiento a sus aplicaciones de React.",
+		"link": "https://www.framer.com/motion/"
+	},
+	{
+		"id": 17,
+		"skill": "Figma",
+		"category": "frontend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008818/my-folder/fotos/Figma_baxnk6.png",
+		"description": "Figma is a vector graphics editor and prototyping tool which is primarily web-based, with additional offline features enabled by desktop applications for macOS and Windows. Figma is primarily intended for interface and user experience design.",
+		"descripcion": "Figma es un editor de gráficos vectoriales y una herramienta de prototipado que se basa principalmente en la web, con funciones adicionales disponibles en aplicaciones de escritorio para macOS y Windows. Figma está destinado principalmente al diseño de interfaz y experiencia de usuario.",
+		"link": "https://www.figma.com/"
+	},
+	{
+		"id": 18,
+		"skill": "Tailwind CSS",
+		"category": "frontend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008821/my-folder/fotos/tailwind_uocsoe.png",
+		"description": "Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. It is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.",
+		"descripcion": "Tailwind CSS es un framework CSS de utilidad primero para crear rápidamente interfaces de usuario personalizadas. Es un framework CSS de bajo nivel altamente personalizable que le brinda todos los bloques de construcción que necesita para crear diseños a medida sin ningún estilo molesto que tenga que luchar para anular.",
+		"link": "https://tailwindcss.com/docs/installation"
+	},
+	{
+		"id": 19,
+		"skill": "Photoshop",
+		"category": "frontend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008820/my-folder/fotos/photoshop_y7zu2g.png",
+		"description": "Adobe Photoshop is a raster graphics editor developed and published by Adobe Inc. for macOS and Windows. It was originally created in 1988 by Thomas and John Knoll.",
+		"descripcion": "Adobe Photoshop es un editor de gráficos raster desarrollado y publicado por Adobe Inc. para macOS y Windows. Fue creado originalmente en 1988 por Thomas y John Knoll.",
+		"link": "https://www.adobe.com/products/photoshop.html"
+	},
+	{
+		"id": 20,
+		"skill": "TypeORM",
+		"category": "database",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008821/my-folder/fotos/typeorm_ze3mzt.png",
+		"description": "TypeORM is an ORM that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native, NativeScript, Expo, and Electron platforms and can be used with TypeScript and JavaScript (ES5, ES6, ES7, ES8).",
+		"descripcion": "TypeORM es un ORM que se puede ejecutar en plataformas NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native, NativeScript, Expo y Electron y se puede usar con TypeScript y JavaScript (ES5, ES6, ES7, ES8).",
+		"link": "https://typeorm.io/#/"
+	},
+	{
+		"id": 21,
+		"skill": "PostgreSQL",
+		"category": "database",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008820/my-folder/fotos/postgresql_coqis2.png",
+		"description": "PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and SQL compliance. It was originally named POSTGRES, referring to its origins as a successor to the Ingres database developed at the University of California, Berkeley.",
+		"descripcion": "PostgreSQL, también conocido como Postgres, es un sistema de gestión de bases de datos relacionales de código abierto y gratuito que enfatiza la extensibilidad y la conformidad con SQL. Originalmente se llamaba POSTGRES, refiriéndose a sus orígenes como sucesor de la base de datos Ingres desarrollada en la Universidad de California, Berkeley.",
+		"link": "https://www.postgresql.org/"
+	},
+	{
+		"id": 22,
+		"skill": "Sqlite",
+		"category": "database",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008821/my-folder/fotos/sqlite_kmwwzo.png",
+		"description": "SQLite is a software library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine. The source code for SQLite is in the public domain.",
+		"descripcion": "SQLite es una biblioteca de software que implementa un motor de base de datos SQL autónomo, sin servidor y sin configuración, transaccional. El código fuente de SQLite está en el dominio público.",
+		"link": "https://www.sqlite.org/index.html"
+	},
+	{
+		"id": 23,
+		"skill": "Mysql",
+		"category": "database",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008819/my-folder/fotos/mysql_cczikm.png",
+		"description": "MySQL is an open-source relational database management system. Its name is a combination of 'My', the name of co-founder Michael Widenius's daughter, and 'SQL', the abbreviation for Structured Query Language.",
+		"descripcion": "MySQL es un sistema de gestión de bases de datos relacionales de código abierto. Su nombre es una combinación de 'My', el nombre de la hija del cofundador Michael Widenius, y 'SQL', la abreviatura de Structured Query Language.",
+		"link": "https://www.mysql.com/"
+	},
+	{
+		"id": 24,
+		"skill": "MongoDB",
+		"category": "database",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008819/my-folder/fotos/mongodb_rcwwig.png",
+		"description": "MongoDB is a cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.",
+		"descripcion": "MongoDB es un programa de base de datos orientado a documentos multiplataforma. Clasificado como un programa de base de datos NoSQL, MongoDB usa documentos JSON similares a los esquemas opcionales.",
+		"link": "https://www.mongodb.com/"
+	},
+	{
+		"id": 25,
+		"skill": "Mongoose",
+		"category": "database",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008819/my-folder/fotos/mongoose_vcnffb.png",
+		"description": "Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment. Mongoose supports both promises and callbacks.",
+		"descripcion": "Mongoose es una herramienta de modelado de objetos MongoDB diseñada para funcionar en un entorno asincrónico. Mongoose admite tanto promesas como devoluciones de llamada.",
+		"link": "https://mongoosejs.com/"
+	},
+
+	{
+		"id": 26,
+		"skill": "Sequelize",
+		"category": "database",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008820/my-folder/fotos/sequelize_op0flz.png",
+		"description": "Sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server. It features solid transaction support, relations, read replication and more.",
+		"descripcion": "Sequelize es un ORM basado en promesas para Node.js para Postgres, MySQL, MariaDB, SQLite y Microsoft SQL Server. Cuenta con un sólido soporte de transacciones, relaciones, replicación de lectura y más.",
+		"link": "https://sequelize.org/"
+	},
+	{
+		"id": 27,
+		"skill": "Socket.io",
+		"category": "backend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008820/my-folder/fotos/socketio_rcrhsb.png",
+		"description": "Socket.IO enables real-time, bidirectional and event-based communication. It works on every platform, browser or device, focusing equally on reliability and speed.",
+		"descripcion": "Socket.IO permite la comunicación en tiempo real, bidireccional y basada en eventos. Funciona en cada plataforma, navegador o dispositivo, enfocándose igualmente en la fiabilidad y la velocidad.",
+		"link": "https://socket.io/"
+	},
+	{
+		"id": 28,
+		"skill": "Prisma",
+		"category": "database",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008820/my-folder/fotos/prisma_fxbqxm.png",
+		"description": "Prisma is an open-source database toolkit. It is used to query data from a database inside a Node.js or TypeScript application. It replaces traditional ORMs.",
+		"descripcion": "Prisma es un conjunto de herramientas de base de datos de código abierto. Se utiliza para consultar datos de una base de datos dentro de una aplicación Node.js o TypeScript. Reemplaza a los ORMs tradicionales.",
+		"link": "https://www.prisma.io/"
+	},
+	{
+		"id": 29,
+		"skill": "OAuth 2.0",
+		"category": "backend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008820/my-folder/fotos/Oauth_2.0_yqtdqm.png",
+		"description": "OAuth 2.0 is the industry-standard protocol for authorization. OAuth 2.0 supersedes the work done on the original OAuth protocol created in 2006. OAuth 2.0 focuses on client developer simplicity while providing specific authorization flows for web applications, desktop applications, mobile phones, and living room devices.",
+		"descripcion": "OAuth 2.0 es el protocolo estándar de la industria para la autorización. OAuth 2.0 reemplaza el trabajo realizado en el protocolo OAuth original creado en 2006. OAuth 2.0 se centra en la simplicidad del desarrollador de clientes, mientras que proporciona flujos de autorización específicos para aplicaciones web, aplicaciones de escritorio, teléfonos móviles y dispositivos de salón.",
+		"link": "https://oauth.net/2/"
+	},
+	{
+		"id": 30,
+		"skill": "Passport",
+		"category": "backend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008820/my-folder/fotos/passport_gffltk.png",
+		"description": "Passport is authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application. A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.",
+		"descripcion": "Passport es un middleware de autenticación para Node.js. Extremadamente flexible y modular, Passport puede ser insertado sin molestar en cualquier aplicación web basada en Express. Un conjunto completo de estrategias admiten la autenticación mediante un nombre de usuario y contraseña, Facebook, Twitter y más.",
+		"link": "http://www.passportjs.org/"
+	},
+	{
+		"id": 31,
+		"skill": "Python",
+		"category": "backend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008820/my-folder/fotos/python_pqjgzs.png",
+		"description": "Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.",
+		"descripcion": "Python es un lenguaje de programación interpretado, de alto nivel y de propósito general. Creado por Guido van Rossum y lanzado por primera vez en 1991, la filosofía de diseño de Python enfatiza la legibilidad del código con su notable uso de espacios en blanco significativos.",
+		"link": "https://www.python.org/"
+	},
+	{
+		"id": 32,
+		"skill": "Django",
+		"category": "backend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008818/my-folder/fotos/django_gwikak.png",
+		"description": "Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source.",
+		"descripcion": "Django es un marco web de Python de alto nivel que fomenta el desarrollo rápido y el diseño pragmático y limpio. Construido por desarrolladores experimentados, se ocupa de gran parte de la molestia del desarrollo web, para que pueda centrarse en escribir su aplicación sin necesidad de reinventar la rueda. Es gratis y de código abierto.",
+		"link": "https://www.djangoproject.com/"
+	},
+	{
+		"id": 33,
+		"skill": "Django Rest Framework",
+		"category": "backend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008817/my-folder/fotos/django_rest_svmar9.png",
+		"description": "Django REST framework is a powerful and flexible toolkit for building Web APIs. Some reasons you might want to use REST framework:",
+		"descripcion": "Django REST framework es un conjunto de herramientas potente y flexible para crear APIs web. Algunas razones por las que puede querer usar REST framework:",
+		"link": "https://www.django-rest-framework.org/"
+	},
+	{
+		"id": 34,
+		"skill": "Graphene",
+		"category": "backend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008818/my-folder/fotos/graphene_s1qpbn.png",
+		"description": "Graphene is a Python library for building GraphQL APIs. It allows you to express your data models declaratively and convert them into a GraphQL schema that can be served using any GraphQL server library.",
+		"descripcion": "Graphene es una biblioteca de Python para crear APIs GraphQL. Le permite expresar sus modelos de datos de manera declarativa y convertirlos en un esquema GraphQL que se puede servir utilizando cualquier biblioteca de servidor GraphQL.",
+		"link": "https://graphene-python.org/"
+	},
+	{
+		"id": 35,
+		"skill": "React Native",
+		"category": "frontend",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008820/my-folder/fotos/reactnative_jykq9n.png",
+		"description": "React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces. With React Native, you use native UI controls and have full access to the native platform.",
+		"descripcion": "React Native combina las mejores partes del desarrollo nativo con React, una biblioteca de JavaScript de clase mundial para crear interfaces de usuario. Con React Native, usa controles de interfaz de usuario nativos y tienes acceso completo a la plataforma nativa.",
+		"link": "https://reactnative.dev/"
+	},
+	{
+		"id": 36,
+		"skill": "Git",
+		"category": "tools",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008818/my-folder/fotos/git_vxir63.png",
+		"description": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
+		"descripcion": "Git es un sistema de control de versiones distribuido de código abierto diseñado para manejar todo, desde proyectos pequeños a muy grandes, con velocidad y eficiencia.",
+		"link": "https://git-scm.com/"
+	},
+	{
+		"id": 37,
+		"skill": "GitHub",
+		"category": "tools",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008818/my-folder/fotos/github_suqeub.png",
+		"description": "GitHub is a web-based hosting service for version control using git. It is mostly used for computer code. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features.",
+		"descripcion": "GitHub es un servicio de alojamiento basado en la web para el control de versiones utilizando git. Se usa principalmente para código de computadora. Ofrece todas las funciones de control de versiones distribuido y administración de código fuente de Git, así como sus propias características.",
+		"link": "https://github.com/"
+	},
+	{
+		"id": 38,
+		"skill": "Docker",
+		"category": "tools",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008818/my-folder/fotos/docker_mz80rh.png",
+		"description": "Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels.",
+		"descripcion": "Docker es un conjunto de productos de plataforma como servicio que utilizan virtualización de nivel de sistema operativo para entregar software en paquetes llamados contenedores. Los contenedores están aislados entre sí y agrupan su propio software, bibliotecas y archivos de configuración; pueden comunicarse entre sí a través de canales bien definidos.",
+		"link": "https://www.docker.com/"
+	},
+	{
+		"id": 39,
+		"skill": "Next Auth",
+		"category": "tools",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669010139/my-folder/fotos/nextauth_nnyjed.png",
+		"description": "NextAuth.js is an open source authentication solution for Next.js. It supports multiple providers, including OAuth and email sign in, out of the box and makes it easy to add your own custom providers.",
+		"descripcion": "NextAuth.js es una solución de autenticación de código abierto para Next.js. Soporta varios proveedores, incluidos OAuth y inicio de sesión por correo electrónico, de forma predeterminada y facilita la adición de sus propios proveedores personalizados.",
+		"link": "https://next-auth.js.org/"
+	},
+	{
+		"id": 40,
+		"skill": "Cloudinary",
+		"category": "services",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008817/my-folder/fotos/cloudinary_petkun.png",
+		"description": "Cloudinary is a cloud-based image and video management service for websites and mobile apps, covering everything from image and video uploads, storage, manipulations, optimizations to delivery. Cloudinary provides a web-based user interface as well as an API for uploading, managing, manipulating, and delivering images and videos.",
+		"descripcion": "Cloudinary es un servicio de gestión de imágenes y videos en la nube para sitios web y aplicaciones móviles, que abarca todo, desde la carga, almacenamiento, manipulación, optimización y entrega de imágenes y videos. Cloudinary proporciona una interfaz de usuario basada en la web, así como una API para cargar, administrar, manipular y entregar imágenes y videos.",
+		"link": "https://cloudinary.com/"
+	},
+	{
+		"id": 41,
+		"skill": "Amazon S3",
+		"category": "services",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008817/my-folder/fotos/amazons3_okymoa.png",
+		"description": "Amazon Simple Storage Service (Amazon S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance. This means customers of all sizes and industries can use it to store and protect any amount of data for a range of use cases, such as websites, mobile applications, backup and restore, archive, enterprise applications, IoT devices, and big data analytics.",
+		"descripcion": "Amazon Simple Storage Service (Amazon S3) es un servicio de almacenamiento de objetos que ofrece escalabilidad, disponibilidad de datos, seguridad y rendimiento de clase mundial. Esto significa que los clientes de todos los tamaños e industrias pueden usarlo para almacenar y proteger cualquier cantidad de datos para una variedad de casos de uso, como sitios web, aplicaciones móviles, copia de seguridad y restauración, archivo, aplicaciones empresariales, dispositivos IoT y análisis de grandes cantidades de datos.",
+		"link": "https://aws.amazon.com/s3/"
+	},
+	{
+		"id": 42,
+		"skill": "Firebase",
+		"category": "services",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008818/my-folder/fotos/firebase_hehxpt.png",
+		"description": "Firebase is a platform developed by Google for creating mobile and web applications. It was originally an independent company founded in 2011. In 2014, Google acquired the platform and it is now their flagship offering for app development.",
+		"descripcion": "Firebase es una plataforma desarrollada por Google para crear aplicaciones móviles y web. Originalmente fue una empresa independiente fundada en 2011. En 2014, Google adquirió la plataforma y ahora es su oferta insignia para el desarrollo de aplicaciones.",
+		"link": "https://firebase.google.com/"
+	},
+	{
+		"id": 43,
+		"skill": "Mercado Pago",
+		"category": "tools",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008819/my-folder/fotos/mercadopago_dpeqsh.png",
+		"description": "Mercado Pago is a payment gateway that allows you to accept payments from customers in Argentina, Brazil, Mexico, Chile, Colombia, Uruguay, and Peru. It is a subsidiary of Mercado Libre, the largest e-commerce company in Latin America.",
+		"descripcion": "Mercado Pago es una pasarela de pago que le permite aceptar pagos de sus clientes en Argentina, Brasil, México, Chile, Colombia, Uruguay y Perú. Es una subsidiaria de Mercado Libre, la mayor empresa de comercio electrónico de América Latina.",
+		"link": "https://www.mercadopago.com.ar/"
+	},
+	{
+		"id": 44,
+		"skill": "NPM",
+		"category": "package",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008819/my-folder/fotos/npm_ojaniv.png",
+		"description": "NPM is the package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js. It consists of a command line client, also called npm, and an online database of public and paid-for private packages, called the npm registry.",
+		"descripcion": "NPM es el administrador de paquetes para el lenguaje de programación JavaScript. Es el administrador de paquetes predeterminado para el entorno de ejecución de JavaScript Node.js. Consiste en un cliente de línea de comandos, también llamado npm, y una base de datos en línea de paquetes públicos y de pago privados, llamada el registro npm.",
+		"link": "https://www.npmjs.com/"
+	},
+	{
+		"id": 45,
+		"skill": "Yarn",
+		"category": "tools",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008821/my-folder/fotos/yarn_d1fbz0.png",
+		"description": "Yarn is a package manager that doubles down as project manager. Whether you work on one-shot projects or large monorepos, as a hobbyist or an enterprise user, we've got you covered.",
+		"descripcion": "Yarn es un administrador de paquetes que se dobla como administrador de proyectos. Ya sea que trabaje en proyectos de un solo disparo o en monorepos grandes, como aficionado o usuario empresarial, lo cubrimos.",
+		"link": "https://yarnpkg.com/"
+	},
+	{
+		"id": 46,
+		"skill": "Windows",
+		"category": "systems",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008821/my-folder/fotos/windows_x5blx6.png",
+		"description": "Windows is a group of several proprietary graphical operating system families, all of which are developed and marketed by Microsoft. Each family caters to a certain sector of the computing industry.",
+		"descripcion": "Windows es un grupo de varias familias de sistemas operativos gráficos propietarios, todas desarrolladas y comercializadas por Microsoft. Cada familia se dirige a un cierto sector de la industria informática.",
+		"link": "https://www.microsoft.com/en-us/windows"
+	},
+	{
+		"id": 47,
+		"skill": "Ubuntu",
+		"category": "systems",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008821/my-folder/fotos/ubuntu_n5drba.png",
+		"description": "Ubuntu is a free and open-source Linux distribution based on Debian. Ubuntu is officially released in three editions: Desktop, Server, and Core for Internet of Things devices and robots. All the editions can run on the computer alone, or in a virtual machine. Ubuntu is a popular operating system for cloud computing, with support for OpenStack.",
+		"descripcion": "Ubuntu es una distribución de Linux de código abierto y gratuito basada en Debian. Ubuntu se lanza oficialmente en tres ediciones: Escritorio, Servidor y Core para dispositivos IoT y robots. Todas las ediciones pueden ejecutarse en la computadora sola o en una máquina virtual. Ubuntu es un sistema operativo popular para computación en la nube, con soporte para OpenStack.",
+		"link": "https://ubuntu.com/"
+	},
+	{
+		"id": 48,
+		"skill": "Webpack",
+		"category": "package",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008821/my-folder/fotos/webpack_rcfyup.png",
+		"description": "Webpack is an open-source JavaScript module bundler. It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding plugins are included. Webpack takes modules with dependencies and generates static assets representing those modules.",
+		"descripcion": "Webpack es un empaquetador de módulos de JavaScript de código abierto. Es un empaquetador de módulos principalmente para JavaScript, pero puede transformar activos frontales como HTML, CSS e imágenes si se incluyen los complementos correspondientes. Webpack toma módulos con dependencias y genera activos estáticos que representan esos módulos.",
+		"link": "https://webpack.js.org/"
+	},
+	{
+		"id": 49,
+		"skill": "Jest",
+		"category": "testing",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669008819/my-folder/fotos/jest_bhg4jv.png",
+		"description": "Jest is a delightful JavaScript Testing Framework with a focus on simplicity. It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more!",
+		"descripcion": "Jest es un maravilloso marco de pruebas de JavaScript con un enfoque en la simplicidad. ¡Funciona con proyectos que usan: Babel, TypeScript, Node, React, Angular, Vue y más!",
+		"link": "https://jestjs.io/"
+	},
+	{
+		"id": 50,
+		"skill": "Cypress.io",
+		"category": "testing",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669127380/my-folder/fotos/CYPRESS_kprvdz.png",
+		"description": "Cypress is a next generation front end testing tool built for the modern web. Cypress is a JavaScript end to end testing framework that runs in the browser. It is used to test web applications like websites, web apps, or any other type of web-based software that you can think of.",
+		"descripcion": "Cypress es una herramienta de pruebas front end de próxima generación creada para la web moderna. Cypress es un marco de pruebas de JavaScript de extremo a extremo que se ejecuta en el navegador. Se utiliza para probar aplicaciones web como sitios web, aplicaciones web o cualquier otro tipo de software basado en la web que puedas imaginar.",
+		"link": "https://www.cypress.io/"
+	},
+	{
+		"id": 51,
+		"skill": "Redis",
+		"category": "tools",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669127380/my-folder/fotos/redis_kweixv.png",
+		"description": "Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams.",
+		"descripcion": "Redis es una tienda de estructuras de datos en memoria de código abierto (licencia BSD), utilizada como base de datos, caché y mensajero. Soporta estructuras de datos como cadenas, hashes, listas, conjuntos, conjuntos ordenados con consultas de rango, mapas de bits, hiperloglogs, índices geoespaciales con consultas de radio y flujos.",
+		"link": "https://redis.io/"
+	},
+	{
+		"id": 52,
+		"skill": "Github Actions",
+		"category": "tools",
+		"image": "https://res.cloudinary.com/gongian/image/upload/v1669127380/my-folder/fotos/github_actions_i2jgxi.png",
+		"description": "GitHub Actions is a workflow automation platform that is tightly integrated with GitHub. It is a feature of GitHub that allows you to automate tasks within your software development life cycle. GitHub Actions is a tool that allows you to automate tasks within your software development life cycle.",
+		"descripcion": "GitHub Actions es una plataforma de automatización de flujos de trabajo que está integrada estrechamente con GitHub. Es una característica de GitHub que le permite automatizar tareas dentro de su ciclo de vida de desarrollo de software. GitHub Actions es una herramienta que le permite automatizar tareas dentro de su ciclo de vida de desarrollo de software.",
+		"link": "https://github.com/marketplace?type=actions"
+	}
+]
